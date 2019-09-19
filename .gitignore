@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+*event-hubs
+*info.log
+*errors.log
+*__pycache__
